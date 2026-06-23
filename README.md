@@ -21,4 +21,4 @@ Aplicação desenvolvida em Python utilizando:
 - Pillow
 - Python-Docx
 
-Desenvolvido por Larissa Oliveira.
+Desenvolvido por Emilly Nicolly
