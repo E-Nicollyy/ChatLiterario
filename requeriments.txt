@@ -2,3 +2,4 @@ google-generativeai
 python-docx
 gradio
 pillow
+gradio==4.44.1
