@@ -161,7 +161,7 @@ def menu_correcao(genero, imagem, texto):
 
 # --- INTERFACE VISUAL (GRADIO EM TEMA MONOCHROME) ---
 
-with gr.Blocks(theme=gr.Theme.from_hub("Luminia/llm-trainer")) as app:
+with gr.Blocks(theme=gr.Theme.from_hub("Luminia/llm-trainer"))  as app:
     gr.Markdown("# 📖 Chat Literário Inteligente")
     gr.Markdown("Seja bem-vindo ao seu assistente literário pessoal. Navegue pelas abas abaixo:")
     
